@@ -1,0 +1,12 @@
+C:\Users\Пользователь\source\repos\TableEditorApp\bin\Debug\TableEditorApp.exe.config
+C:\Users\Пользователь\source\repos\TableEditorApp\bin\Debug\TableEditorApp.exe
+C:\Users\Пользователь\source\repos\TableEditorApp\bin\Debug\TableEditorApp.pdb
+C:\Users\Пользователь\source\repos\TableEditorApp\obj\Debug\TableEditorApp.csproj.AssemblyReference.cache
+C:\Users\Пользователь\source\repos\TableEditorApp\obj\Debug\TableEditorApp.ChildForm.resources
+C:\Users\Пользователь\source\repos\TableEditorApp\obj\Debug\TableEditorApp.Form1.resources
+C:\Users\Пользователь\source\repos\TableEditorApp\obj\Debug\TableEditorApp.Properties.Resources.resources
+C:\Users\Пользователь\source\repos\TableEditorApp\obj\Debug\TableEditorApp.csproj.GenerateResource.cache
+C:\Users\Пользователь\source\repos\TableEditorApp\obj\Debug\TableEditorApp.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\TableEditorApp\obj\Debug\TableEditorApp.exe
+C:\Users\Пользователь\source\repos\TableEditorApp\obj\Debug\TableEditorApp.pdb
+C:\Users\Пользователь\source\repos\TableEditorApp\obj\Debug\TableEditorApp.TopicSelectionForm.resources
